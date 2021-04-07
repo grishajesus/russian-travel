@@ -6,3 +6,9 @@
   max-width: 1184px;
   margin: 92px auto;
 }
+
+@media screen and (max-width: 368px) {
+  .cover {
+    margin: 66px auto;
+  }
+}

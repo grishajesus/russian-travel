@@ -2,7 +2,7 @@
     font-weight: 900;
     font-size: 96px;
     text-align: center;
-    margin: 48px 0;
+    margin: 56px auto 32px;
     max-width: 782px;
     line-height: 93px;
   }
@@ -14,3 +14,9 @@
       margin: 48px 0 8px;
     }
   }  
+
+  @media screen and (max-width: 320px) {
+    .lead__title {
+      margin: 48px 16px 16px 16px;
+    }
+  }

@@ -6,7 +6,7 @@
   }
   
   .place__paragraph:nth-child(2) {
-    margin: 36px 0 0;
+    margin: 26px 0 0;
   }
   
   @media screen and (max-width: 950px) {

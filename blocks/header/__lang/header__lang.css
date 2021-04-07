@@ -5,6 +5,7 @@
   margin-bottom: 0;
   color: white;
   margin-right: 16px;
+  text-decoration: none;
 }
 
 .header__lang:hover {
@@ -17,4 +18,8 @@
     font-size: 18px;
     line-height: 96.82%;
   }
+}
+
+.header__lang_active {
+  text-decoration: underline;
 }
